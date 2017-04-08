@@ -2,4 +2,4 @@
 title: Mangrove Playbook
 ```
 
-This playbook is the reference guide for every Mangrove's member
+This playbook is the reference guide for every Mangrove's member.
